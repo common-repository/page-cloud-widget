@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Page List Widget 1.2.3\n"
+"POT-Creation-Date: 2016-01-11 08:41+0100\n"
+"PO-Revision-Date: 2016-01-11 08:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../page-cloud-widget.php:32
+msgid "This widget will display a list of posts or pages."
+msgstr "Zeigt eine Auflistung von Seiten oder Beiträgen"
+
+#: ../page-cloud-widget.php:35
+msgid "Post/Page list"
+msgstr "Seiten/Beiträge Liste"
+
+#: ../page-cloud-widget.php:81
+msgid "Title:"
+msgstr "Titel:"
+
+#: ../page-cloud-widget.php:87
+msgid "Type:"
+msgstr "Typ:"
+
+#: ../page-cloud-widget.php:91
+msgid "Posts"
+msgstr "Beiträge"
+
+#: ../page-cloud-widget.php:96
+msgid "Pages"
+msgstr "Seiten"
+
+#: ../page-cloud-widget.php:102
+msgid "Number:"
+msgstr "Anzahl"
+
+#: ../page-cloud-widget.php:110
+msgid "Display created date"
+msgstr "Zeige Erstellungsdatum"
+
+#: ../page-cloud-widget.php:116 ../page-cloud-widget.php:136
+msgid "Prefix:"
+msgstr "Prefix:"
+
+#: ../page-cloud-widget.php:121 ../page-cloud-widget.php:141
+msgid "Suffix:"
+msgstr "Suffix:"
+
+#: ../page-cloud-widget.php:130
+msgid "Display modified date"
+msgstr "Zeige Änderungsdatum"
+
+#: ../page-cloud-widget.php:148
+msgid "Order by:"
+msgstr "Sortieren nach:"
+
+#: ../page-cloud-widget.php:151
+msgid "Title"
+msgstr "Titel"
+
+#: ../page-cloud-widget.php:152
+msgid "Menu order"
+msgstr "Sortierung"
+
+#: ../page-cloud-widget.php:153
+msgid "Post date"
+msgstr "Beitrags Datum"
+
+#: ../page-cloud-widget.php:154
+msgid "Modified date"
+msgstr "Änderungsdatum"
+
+#: ../page-cloud-widget.php:155
+msgid "ID"
+msgstr "ID"
+
+#: ../page-cloud-widget.php:156
+msgid "Author"
+msgstr "Autor"
+
+#: ../page-cloud-widget.php:157
+msgid "Post name"
+msgstr "Beitrag Name"
+
+#: ../page-cloud-widget.php:160
+msgid "Asc"
+msgstr "Aufsteigend"
+
+#: ../page-cloud-widget.php:161
+msgid "Desc"
+msgstr "Absteigend"
+
+#: ../page-cloud-widget.php:167
+msgid "Include:"
+msgstr ""
+
+#: ../page-cloud-widget.php:170 ../page-cloud-widget.php:178
+msgid "Page/Post IDs, separated by commas."
+msgstr "IDs, Komma getrennt"
+
+#: ../page-cloud-widget.php:175
+msgid "Exclude:"
+msgstr ""
+
+#: ../page-cloud-widget.php:212
+msgid "Post list"
+msgstr "Beitrags Liste"
+
+#: ../page-cloud-widget.php:212
+msgid "Page list"
+msgstr "Seiten Liste"
+
+#~ msgid "This widget will display a list of posts/pages."
+#~ msgstr "Dieses Widget zeigt eine Liste von Seiten oder Beiträgen"
